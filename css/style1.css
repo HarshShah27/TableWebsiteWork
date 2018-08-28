@@ -1,0 +1,46 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: verdana;
+}
+
+.harsh {
+    font-family: verdana;
+    font-size: 2em;
+}
+.white{
+    background-color:#ffffff;
+    color:white;
+}
+
+a {
+    text-decoration: none;
+    margin: 0px;
+
+    color:white;
+
+}
+
+.bgcolor {
+    background-color:#1a1a1a;
+    color: white;
+}
+.bg{
+    background: url(../images/bg.jpg);
+}
+.bg1{
+    background: url(../images/application.jpg);
+}
+    
+
+.bottom {
+    vertical-align: bottom;
+    background-color:white;
+    
+}
+
+table {
+    border-spacing: 0px;
+}
